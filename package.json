@@ -1,9 +1,9 @@
 {
-  "name": "eslint-config-airbnb-typescript",
+  "name": "eslint-config-airbnb-ts",
   "description": "Airbnb's ESLint config with TypeScript support",
   "license": "MIT",
   "author": "Matt Turnbull <matt@iamturns.com> (https://iamturns.com)",
-  "homepage": "https://github.com/iamturns/eslint-config-airbnb-typescript",
+  "homepage": "https://github.com/iamturns/eslint-config-airbnb-ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/iamturns/eslint-config-airbnb-typescript.git"
