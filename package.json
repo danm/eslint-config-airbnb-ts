@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/iamturns/eslint-config-airbnb-typescript/issues"
   },
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "main": "dist/eslint-config-airbnb-typescript.js",
   "scripts": {
     "pre-commit": "lint-staged",
